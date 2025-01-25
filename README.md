@@ -1,0 +1,1 @@
+# python_django_clickhouse_1
