@@ -7,6 +7,8 @@ BASE_DIR="/home/mdp/python_django_clickhouse_1"
 
 # Create base directory
 mkdir -p $BASE_DIR/$PROJECT_NAME
+mkdir -p $BASE_DIR/my_parquet_files
+mkdir -p $BASE_DIR/my_config_files
 
 # Create a virtual environment and activate it
 python3 -m venv $BASE_DIR/venv
