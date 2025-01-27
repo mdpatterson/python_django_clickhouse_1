@@ -1,5 +1,5 @@
 {
-  "base_dir": "/home/mdp/python_django_clickhouse_1",
+  "base_dir": "~/python_django_clickhouse_1",
   "project_dir": "myproject",
   "app_dir": "myapp",
   "database_alias": "clickhouse"
