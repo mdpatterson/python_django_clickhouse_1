@@ -3,7 +3,7 @@
 # Set variables
 PROJECT_NAME="myproject"
 APP_NAME="myapp"
-BASE_DIR="/home/mdp/python_django_clickhouse_1"
+BASE_DIR="~/python_django_clickhouse_1"
 
 # Create base directory
 mkdir -p $BASE_DIR/$PROJECT_NAME
